@@ -8,3 +8,4 @@ The project is to investigate a classic phenomenon from experimental psychology 
 * Set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results.
 
 ## Files:
+* README.md: this file
