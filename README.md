@@ -9,3 +9,7 @@ The project is to investigate a classic phenomenon from experimental psychology 
 
 ## Files:
 * README.md: this file
+* Statistics project.pdf: project report
+* stroop_data.csv: data
+* stroop_project.Rmd: codes used for the project visualiation
+
